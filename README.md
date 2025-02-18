@@ -1,16 +1,38 @@
-## Hi there 👋
+Hola, soy un **Desarrollador Full Stack con especialidad en Desarrollo de Aplicaciones Web (DAW)**.
 
-<!--
-**josemeneu/josemeneu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🚀 **Tecnologías y Herramientas que Manejo:**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### **Frontend:**
+- 🌐 **HTML, CSS**
+- 🎨 Diseño Responsive y UX/UI
+
+### **Backend:**
+
+- 🧩 **Spring Boot** (Java)
+- 🔗 Integración de APIs RESTful
+
+### **Lenguajes de Programación:**
+- ☕ **Java**
+- 💻 **PHP**
+- 📌 **JavaScript**
+
+### **Bases de Datos:**
+- 📊 **SQLite (APIs nativas y Room)**
+- 🛢️ **MySQL y PostgreSQL**
+- ❌ **BaseX**
+
+## 🎯 **Mis Habilidades Clave:**
+- Pensamiento Crítico y Resolución de Problemas
+- Desarrollo Eficiente y Estratégico
+- Trabajo Colaborativo
+- Capacidad de Aprendizaje Continuo
+
+---
+
+## 🔗 **Contáctame:**
+- ✉️ [Correo Electrónico](mailto:josmenmar3@alu.edu.gva.es)
+- 💼 [LinkedIn](https://www.linkedin.com/in/josemeneu)
+- 🌐 [Web Personal](https://josemeneu.com)
+
