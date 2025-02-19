@@ -9,7 +9,6 @@ Hola, soy un **Desarrollador Full Stack con especialidad en Desarrollo de Aplica
 - 🎨 Diseño Responsive y UX/UI
 
 ### **Backend:**
-
 - 🧩 **Spring Boot** (Java)
 - 🔗 Integración de APIs RESTful
 
@@ -19,7 +18,7 @@ Hola, soy un **Desarrollador Full Stack con especialidad en Desarrollo de Aplica
 - 📌 **JavaScript**
 
 ### **Bases de Datos:**
-- 📊 **SQLite (APIs nativas y Room)**
+- 📊 **SQLite**
 - 🛢️ **MySQL y PostgreSQL**
 - ❌ **BaseX**
 
