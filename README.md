@@ -4,15 +4,8 @@ Hola, soy un **Desarrollador Full Stack con especialidad en Desarrollo de Aplica
 
 ## 🚀 **Tecnologías y Herramientas que Manejo:**
 
-### **Frontend:**
-- 🌐 **HTML, CSS**
-- 🎨 Diseño Responsive y UX/UI
-
-### **Backend:**
-- 🧩 **Spring Boot** (Java)
-- 🔗 Integración de APIs RESTful
-
 ### **Lenguajes de Programación:**
+- 🌐 **HTML, CSS**
 - ☕ **Java**
 - 💻 **PHP**
 - 📌 **JavaScript**
