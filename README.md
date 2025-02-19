@@ -1,4 +1,4 @@
-Hola, soy un **Desarrollador Full Stack con especialidad en Desarrollo de Aplicaciones Web (DAW)**.
+Hola, me llamo José Pascual y soy **Técnico Superior en Desarrollo de Aplicaciones Web**.
 
 ---
 
