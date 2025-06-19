@@ -1,30 +1,46 @@
-Hola, me llamo José Pascual y soy **Técnico Superior en Desarrollo de Aplicaciones Web**.
+# 👋 ¡Hola! Soy José Pascual  
+**Técnico Superior en Desarrollo de Aplicaciones Web**
 
 ---
 
-## 🚀 **Tecnologías y Herramientas que Manejo:**
+## 🛠️ Tecnologías y Herramientas
 
-### **Lenguajes de Programación:**
-- 🌐 **HTML, CSS**
+### 💻 Lenguajes y Frameworks
+- 🌱 **Spring Boot**
 - ☕ **Java**
-- 💻 **PHP**
-- 📌 **JavaScript**
+- 🖼️ **Vue.js**
+- 🌐 **HTML**
+- 🎨 **CSS**
+- 📜 **JavaScript**
+- 🐘 **PHP**
 
-### **Bases de Datos:**
-- 📊 **SQLite**
-- 🛢️ **MySQL y PostgreSQL**
-- ❌ **BaseX**
+### 🗄️ Bases de Datos
+- 🐬 **MySQL**
+- 🐘 **PostgreSQL**
+- 🐿️ **DBeaver**
 
-## 🎯 **Mis Habilidades Clave:**
-- Pensamiento Crítico y Resolución de Problemas
-- Desarrollo Eficiente y Estratégico
-- Trabajo Colaborativo
-- Capacidad de Aprendizaje Continuo
+### 🛠️ Control de Versiones y DevOps
+- 🧬 **Git**
+- 🌳 **SourceTree**
+
+### 📋 Gestión y Metodologías
+- 📌 **Jira**
+- 🔄 **Scrum**
+- ⚙️ **Agile**
 
 ---
 
-## 🔗 **Contáctame:**
-- ✉️ [Correo Electrónico](mailto:josmenmar3@alu.edu.gva.es)
-- 💼 [LinkedIn](https://www.linkedin.com/in/josemeneu)
-- 🌐 [Web Personal](https://josemeneu.com)
+## 💡 Habilidades Clave
 
+- Pensamiento crítico y resolución de problemas  
+- Desarrollo eficiente y enfocado a objetivos  
+- Trabajo en equipo y colaboración ágil  
+- Adaptabilidad y aprendizaje continuo
+
+---
+
+## 📬 Contacto
+
+- ✉️ [josmenmar3@alu.edu.gva.es](mailto:josmenmar3@alu.edu.gva.es)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/josemeneu)  
+- 🌐 [Web Personal](https://josemeneu.com)
