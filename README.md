@@ -6,27 +6,34 @@
 ## 🛠️ Tecnologías y Herramientas
 
 ### 💻 Lenguajes y Frameworks
-- 🌱 **Spring Boot**
-- ☕ **Java**
-- 🖼️ **Vue.js**
-- 🌐 **HTML**
-- 🎨 **CSS**
-- 📜 **JavaScript**
+- 🌱 **Spring Boot**  
+- ☕ **Java**  
+- 🖼️ **Vue.js**  
+- 🌐 **HTML**  
+- 🎨 **CSS**  
+- 📜 **JavaScript**  
 - 🐘 **PHP**
 
 ### 🗄️ Bases de Datos
-- 🐬 **MySQL**
-- 🐘 **PostgreSQL**
+- 🐬 **MySQL**  
+- 🐘 **PostgreSQL**  
 - 🐿️ **DBeaver**
 
 ### 🛠️ Control de Versiones y DevOps
-- 🧬 **Git**
+- 🧬 **Git**  
 - 🌳 **SourceTree**
 
+### 🧪 QA, Testing y Automatización
+- 🐞 **Selenium**  
+- 🥒 **Cucumber**  
+- 🧩 **QMT4J**  
+- 🧪 **JUnit** / **Mockito**
+
 ### 📋 Gestión y Metodologías
-- 📌 **Jira**
-- 🔄 **Scrum**
-- ⚙️ **Agile**
+- 📌 **Jira**  
+- 🔄 **Scrum**  
+- ⚙️ **Agile**  
+- 📊 **Kanban**
 
 ---
 
@@ -34,13 +41,14 @@
 
 - Pensamiento crítico y resolución de problemas  
 - Desarrollo eficiente y enfocado a objetivos  
+- Pruebas automatizadas e integración en entornos Agile  
 - Trabajo en equipo y colaboración ágil  
-- Adaptabilidad y aprendizaje continuo
+- Adaptabilidad y aprendizaje continuo  
 
 ---
 
 ## 📬 Contacto
 
-- ✉️ [josmenmar3@alu.edu.gva.es](mailto:josmenmar3@alu.edu.gva.es)  
+- ✉️ [jpmeneu@gmail.com](mailto:jpmeneu@gmail.com)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/josemeneu)  
 - 🌐 [Web Personal](https://josemeneu.com)
