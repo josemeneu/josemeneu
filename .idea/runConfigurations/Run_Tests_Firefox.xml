@@ -1,0 +1,12 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Run Tests (Firefox)" type="JUnit" factoryName="JUnit">
+    <module name="playwright-tests"/>
+    <option name="PACKAGE_NAME" value="com.josemeneu.playwright.tests"/>
+    <option name="MAIN_CLASS_NAME" value=""/>
+    <option name="TEST_OBJECT" value="package"/>
+    <option name="VM_PARAMETERS" value="-Dheadless=true -Dbrowser=firefox"/>
+    <method v="2">
+      <option name="Make" enabled="true"/>
+    </method>
+  </configuration>
+</component>
