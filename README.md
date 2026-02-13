@@ -5,6 +5,15 @@
 
 ## 🛠️ Tecnologías y Herramientas
 
+### 🧪 QA, Testing y Automatización
+- 🐞 **Selenium**  
+- 🎭 **Playwright**  
+- 📱 **Appium**  
+- 🤖 **Testsigma**  
+- 🥒 **Cucumber**  
+- 🧩 **QMT4J**  
+- 🧪 **JUnit** / **Mockito**
+
 ### 💻 Lenguajes y Frameworks
 - 🌱 **Spring Boot**  
 - ☕ **Java**  
@@ -21,29 +30,25 @@
 
 ### 🛠️ Control de Versiones y DevOps
 - 🧬 **Git**  
-- 🌳 **SourceTree**
-
-### 🧪 QA, Testing y Automatización
-- 🐞 **Selenium**  
-- 🥒 **Cucumber**  
-- 🧩 **QMT4J**  
-- 🧪 **JUnit** / **Mockito**
+- 🌳 **SourceTree**  
+- ⚙️ **Jenkins**
 
 ### 📋 Gestión y Metodologías
 - 📌 **Jira**  
 - 🔄 **Scrum**  
 - ⚙️ **Agile**  
-- 📊 **Kanban**
+- 📊 **Kanban**  
+- 📝 **Gherkin (BDD)**  
 
 ---
 
 ## 💡 Habilidades Clave
 
-- Pensamiento crítico y resolución de problemas  
-- Desarrollo eficiente y enfocado a objetivos  
-- Pruebas automatizadas e integración en entornos Agile  
-- Trabajo en equipo y colaboración ágil  
-- Adaptabilidad y aprendizaje continuo  
+- 🧠 Pensamiento crítico y resolución de problemas  
+- 🎯 Desarrollo eficiente y enfocado a objetivos  
+- 🧪 Pruebas automatizadas e integración en entornos Agile  
+- 🤝 Trabajo en equipo y colaboración ágil  
+- 🚀 Adaptabilidad y aprendizaje continuo  
 
 ---
 
